@@ -199,7 +199,6 @@ nav .nav-bar .logo a {
 /* footer */
 
 footer {
-    position: fixed;
     left: 0;
     bottom: 0;
     margin-bottom: 20px;
@@ -296,6 +295,8 @@ footer {
 
 .maklowicz img {
     border-radius: 5%;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .maklowicz {
