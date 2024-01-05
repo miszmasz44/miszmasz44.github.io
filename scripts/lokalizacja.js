@@ -1,3 +1,3 @@
 function lokalizacja() {
-    alert("Nie udało sie ustalić twojej lokalizacji.");
+    alert("W tej chwili nie możemy ustalić twojej lokalizacji.");
 }
